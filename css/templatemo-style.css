@@ -134,9 +134,9 @@ img {
   background: url('../images/home-bg.jpg') no-repeat;
   background-size: cover;
   background-position: center;
-  min-height: 500px;
-  padding-top: 180px;
-  padding-bottom: 120px;
+  min-height: 600px;
+  padding-top: 230px;
+  padding-bottom: 150px;
 }
 #home h1,
 #home h3 {
